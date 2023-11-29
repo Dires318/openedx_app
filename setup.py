@@ -165,9 +165,8 @@ setup(
         ],
         "tutor.plugin.v0": [
             "openedx_plugin = openedx_app.plugin"
-            ]
+        ],
     },
-    
     extras_require={
         "Django": ["Django>=3.2"],
     },

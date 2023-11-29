@@ -63,3 +63,4 @@ docs/openedx_app.*.rst
 # Private requirements
 requirements/private.in
 requirements/private.txt
+pii_report/
