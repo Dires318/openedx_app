@@ -1,8 +1,0 @@
-# Local tweaks to pylintrc for edx_lint's own code.
-[MESSAGES CONTROL]
-disable+=
-    django-not-configured,
-
-[TYPECHECK]
-generated-members+=
-    sh.*,
