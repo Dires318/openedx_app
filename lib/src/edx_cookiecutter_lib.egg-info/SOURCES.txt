@@ -1,8 +1,0 @@
-README.rst
-pyproject.toml
-src/edx_cookiecutter_lib/__init__.py
-src/edx_cookiecutter_lib/post_code.py
-src/edx_cookiecutter_lib.egg-info/PKG-INFO
-src/edx_cookiecutter_lib.egg-info/SOURCES.txt
-src/edx_cookiecutter_lib.egg-info/dependency_links.txt
-src/edx_cookiecutter_lib.egg-info/top_level.txt
