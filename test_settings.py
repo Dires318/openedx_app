@@ -33,6 +33,9 @@ INSTALLED_APPS = (
     'django.contrib.contenttypes',
     'django.contrib.messages',
     'django.contrib.sessions',
+    # remote apps
+    'rest_framework',
+    # local apps
     'openedx_app',
 )
 

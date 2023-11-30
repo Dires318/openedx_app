@@ -468,7 +468,9 @@ zipp==3.17.0
     #   -r requirements/test.txt
     #   importlib-metadata
     #   importlib-resources
-edx-django-utils
+#extra requirements
+edx-django-utils==5.9.0
+djangorestframework==3.14.0
     # add the edx-django-utils for apps
 # The following packages are considered to be unsafe in a requirements file:
 # pip

@@ -12,8 +12,7 @@ class Greating(TimeStampedModel):
     .. no_pii:
     """
 
-    request = models.CharField(max_length=150)
-    response = models.CharField(max_length=150)
+    greate = models.CharField(max_length=150)
 
     def __str__(self):
         """

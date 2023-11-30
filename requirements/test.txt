@@ -1,2 +1,2 @@
-pytest-cov
-edx_django_utils
+pytest-cov==4.1.0
+edx-django-utils==5.9.0
