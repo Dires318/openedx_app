@@ -1,8 +1,22 @@
 
 
 {% load i18n %}
-{% trans "Dummy text to generate a translation (.po) source file. It is safe to delete this line. It is also safe to delete (load i18n) above if there are no other (trans) tags in the file" %}
+{% comment %} {% trans "Dummy text to generate a translation (.po) source file. It is safe to delete this line. It is also safe to delete (load i18n) above if there are no other (trans) tags in the file " %} {% endcomment %}
 
+{%block %} 
+    <h1>Welcome</h1>
+    <p> 
+        As the developer of this package, don't place anything here if you can help it
+since this allows developers to have interoperability between your template
+structure and their own.
+    </p>
+    <h2>This is the second title </h2>
+    <p> 
+        As the developer of this package, don't place anything here if you can help it
+since this allows developers to have interoperability between your template
+structure and their own.
+    </p>
+{%endblock%}
 {% comment %}
 As the developer of this package, don't place anything here if you can help it
 since this allows developers to have interoperability between your template
