@@ -163,8 +163,5 @@ setup(
         "lms.djangoapp": [
             "openedx_app = openedx_app.apps:OpenedxAppConfig",
         ],
-        "tutor.plugin.v0": [
-            "openedx_plugin = openedx_app.plugin"
-        ],
     },
 )
